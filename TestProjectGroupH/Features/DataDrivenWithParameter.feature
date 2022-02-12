@@ -10,8 +10,9 @@ Scenario: Data Driven With Parameter Valid Registration
 	And I enter my Username text "Demo123499"
 	And I enter my Email address "demo335577"
 	And I enter my Password text "PasswordSecure"
-	#When I click on the sign up button
-	#Then I should be able to register successfully
+	When I click on the sign up button
+	Then I should be able to register successfully
+	And I added Akins banch
 
 
 	

@@ -6812,11 +6812,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Grandma\\source\\repos\\TestProjectGroupH\\TestProjectGroupH\\TestProjectGroupH.csproj",
+      "projectUniqueName": "C:\\Users\\Grandma\\source\\repos\\Training\\TestProjectFroupH\\TestProjectGroupH\\TestProjectGroupH.csproj",
       "projectName": "TestProjectGroupH",
-      "projectPath": "C:\\Users\\Grandma\\source\\repos\\TestProjectGroupH\\TestProjectGroupH\\TestProjectGroupH.csproj",
+      "projectPath": "C:\\Users\\Grandma\\source\\repos\\Training\\TestProjectFroupH\\TestProjectGroupH\\TestProjectGroupH.csproj",
       "packagesPath": "C:\\Users\\Grandma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Grandma\\source\\repos\\TestProjectGroupH\\TestProjectGroupH\\obj\\",
+      "outputPath": "C:\\Users\\Grandma\\source\\repos\\Training\\TestProjectFroupH\\TestProjectGroupH\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
